@@ -1,5 +1,7 @@
-# Cloudflare Pages redirects
-# Rutas antiguas en español → nuevas en inglés
+# Cloudflare Pages redirects & rewrites
+# Orden: evaluadas de arriba hacia abajo (primera coincidencia gana)
+
+# ── 1. Redirecciones 301: rutas antiguas en español → nuevas en inglés ──
 /productos /products 301
 /es/productos /es/products 301
 /producto/* /product/:splat 301
@@ -14,5 +16,28 @@
 /es/datos-botanicos /es/botanical-facts 301
 /donde-comprar /where-to-buy 301
 /es/donde-comprar /es/where-to-buy 301
-# Fallback for SPA routing
+
+# ── 2. Rewrites 200: inglés base (sin /en/) → /en/ (URL NO cambia) ──
+# Astro build genera directorios con trailing slash, por eso cada regla
+# incluye ambas variantes (con y sin / final).
+/product/* /en/product/:splat 200
+/products /en/products 200
+/products/ /en/products/ 200
+/contact /en/contact 200
+/contact/ /en/contact/ 200
+/story /en/story 200
+/story/ /en/story/ 200
+/team /en/team 200
+/team/ /en/team/ 200
+/blog /en/blog 200
+/blog/ /en/blog/ 200
+/blog/* /en/blog/:splat 200
+/elixir /en/elixir 200
+/elixir/ /en/elixir/ 200
+/botanical-facts /en/botanical-facts 200
+/botanical-facts/ /en/botanical-facts/ 200
+/where-to-buy /en/where-to-buy 200
+/where-to-buy/ /en/where-to-buy/ 200
+
+# ── 3. Fallback SPA routing ──
 /* /index.html 200
