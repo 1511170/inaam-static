@@ -1,195 +1,490 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://inaambotanicals.com/es/</loc>
-    <lastmod>2026-05-16</lastmod>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/es/productos</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/es/products</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/products" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/products" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/products" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/es/producto/watermelon-mint-lemon</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/es/contact</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/contact" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/contact" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/contact" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/es/producto/lychee-hibiscus-lime</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/es/story</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/story" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/story" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/story" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/es/producto/cranberry-basil-juniper</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/es/team</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/team" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/team" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/team" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/es/producto/elixir-botanical</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/es/botanical-facts</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/botanical-facts" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/botanical-facts" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/botanical-facts" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/es/contacto</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/es/where-to-buy</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://inaambotanicals.com/es/historia</loc>
-    <lastmod>2026-05-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://inaambotanicals.com/es/equipo</loc>
-    <lastmod>2026-05-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://inaambotanicals.com/es/datos-botanicos</loc>
-    <lastmod>2026-05-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://inaambotanicals.com/es/donde-comprar</loc>
-    <lastmod>2026-05-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/where-to-buy" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/where-to-buy" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/where-to-buy" />
   </url>
   <url>
     <loc>https://inaambotanicals.com/es/blog</loc>
-    <lastmod>2026-05-16</lastmod>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/blog" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/blog" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/blog" />
   </url>
   <url>
     <loc>https://inaambotanicals.com/es/elixir</loc>
-    <lastmod>2026-05-16</lastmod>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/elixir" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/elixir" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/elixir" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/product/watermelon-mint-lemon</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/watermelon-mint-lemon" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/watermelon-mint-lemon" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/watermelon-mint-lemon" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/product/lychee-hibiscus-lime</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/lychee-hibiscus-lime" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/lychee-hibiscus-lime" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/lychee-hibiscus-lime" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/product/cranberry-basil-juniper</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/cranberry-basil-juniper" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/cranberry-basil-juniper" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/cranberry-basil-juniper" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/product/ginger-beer</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/ginger-beer" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/ginger-beer" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/ginger-beer" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/product/tonic-water</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/tonic-water" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/tonic-water" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/tonic-water" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/product/green-apple-spearmint-cardamom</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/green-apple-spearmint-cardamom" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/green-apple-spearmint-cardamom" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/green-apple-spearmint-cardamom" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/product/ginger-elixir</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/ginger-elixir" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/ginger-elixir" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/ginger-elixir" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/product/yellow-fruit-elixir</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/yellow-fruit-elixir" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/yellow-fruit-elixir" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/yellow-fruit-elixir" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/product/red-berry-elixir</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/red-berry-elixir" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/red-berry-elixir" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/red-berry-elixir" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/product/lychee-lemon-hibiscus-elixir</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/lychee-lemon-hibiscus-elixir" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/lychee-lemon-hibiscus-elixir" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/lychee-lemon-hibiscus-elixir" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/product/watermelon-mint-lemon-elixir</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/watermelon-mint-lemon-elixir" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/watermelon-mint-lemon-elixir" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/watermelon-mint-lemon-elixir" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/product/ginger-soda</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/ginger-soda" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/ginger-soda" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/ginger-soda" />
   </url>
   <url>
     <loc>https://inaambotanicals.com/es/blog/5-benefits-agave-inulin</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/blog/5-benefits-agave-inulin" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/blog/5-benefits-agave-inulin" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/blog/5-benefits-agave-inulin" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/blog/inaam-elixir-vs-soda-tradicional</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/blog/inaam-elixir-vs-soda-tradicional" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/blog/inaam-elixir-vs-soda-tradicional" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/blog/inaam-elixir-vs-soda-tradicional" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/blog/5-beneficios-inulina-agave</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/blog/5-beneficios-inulina-agave" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/blog/5-beneficios-inulina-agave" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/blog/5-beneficios-inulina-agave" />
   </url>
   <url>
     <loc>https://inaambotanicals.com/es/blog/inaam-elixir-vs-traditional-soda</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/blog/inaam-elixir-vs-traditional-soda" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/blog/inaam-elixir-vs-traditional-soda" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/blog/inaam-elixir-vs-traditional-soda" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/es/blog/que-son-sodas-botanicas</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/blog/que-son-sodas-botanicas" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/blog/que-son-sodas-botanicas" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/blog/que-son-sodas-botanicas" />
   </url>
   <url>
     <loc>https://inaambotanicals.com/es/blog/what-are-botanical-sodas</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/blog/what-are-botanical-sodas" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/blog/what-are-botanical-sodas" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/blog/what-are-botanical-sodas" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/en/</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/en/productos</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/products</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/products" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/products" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/products" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/en/producto/watermelon-mint-lemon</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/contact</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/contact" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/contact" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/contact" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/en/producto/lychee-hibiscus-lime</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/story</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/story" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/story" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/story" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/en/producto/cranberry-basil-juniper</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/team</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/team" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/team" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/team" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/en/producto/elixir-botanical</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/botanical-facts</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/botanical-facts" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/botanical-facts" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/botanical-facts" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/en/contacto</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/where-to-buy</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/where-to-buy" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/where-to-buy" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/where-to-buy" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/en/historia</loc>
-    <lastmod>2026-05-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://inaambotanicals.com/en/equipo</loc>
-    <lastmod>2026-05-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://inaambotanicals.com/en/datos-botanicos</loc>
-    <lastmod>2026-05-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://inaambotanicals.com/en/donde-comprar</loc>
-    <lastmod>2026-05-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://inaambotanicals.com/en/blog</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/blog</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/blog" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/blog" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/blog" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/en/elixir</loc>
-    <lastmod>2026-05-16</lastmod>
+    <loc>https://inaambotanicals.com/elixir</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/elixir" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/elixir" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/elixir" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/en/blog/5-benefits-agave-inulin</loc>
+    <loc>https://inaambotanicals.com/product/watermelon-mint-lemon</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/watermelon-mint-lemon" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/watermelon-mint-lemon" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/watermelon-mint-lemon" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/product/lychee-hibiscus-lime</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/lychee-hibiscus-lime" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/lychee-hibiscus-lime" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/lychee-hibiscus-lime" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/product/cranberry-basil-juniper</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/cranberry-basil-juniper" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/cranberry-basil-juniper" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/cranberry-basil-juniper" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/product/ginger-beer</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/ginger-beer" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/ginger-beer" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/ginger-beer" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/product/tonic-water</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/tonic-water" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/tonic-water" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/tonic-water" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/product/green-apple-spearmint-cardamom</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/green-apple-spearmint-cardamom" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/green-apple-spearmint-cardamom" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/green-apple-spearmint-cardamom" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/product/ginger-elixir</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/ginger-elixir" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/ginger-elixir" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/ginger-elixir" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/product/yellow-fruit-elixir</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/yellow-fruit-elixir" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/yellow-fruit-elixir" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/yellow-fruit-elixir" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/product/red-berry-elixir</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/red-berry-elixir" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/red-berry-elixir" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/red-berry-elixir" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/product/lychee-lemon-hibiscus-elixir</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/lychee-lemon-hibiscus-elixir" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/lychee-lemon-hibiscus-elixir" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/lychee-lemon-hibiscus-elixir" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/product/watermelon-mint-lemon-elixir</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/watermelon-mint-lemon-elixir" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/watermelon-mint-lemon-elixir" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/watermelon-mint-lemon-elixir" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/product/ginger-soda</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/product/ginger-soda" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/product/ginger-soda" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/product/ginger-soda" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/blog/5-benefits-agave-inulin</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/blog/5-benefits-agave-inulin" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/blog/5-benefits-agave-inulin" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/blog/5-benefits-agave-inulin" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/en/blog/inaam-elixir-vs-traditional-soda</loc>
+    <loc>https://inaambotanicals.com/blog/inaam-elixir-vs-soda-tradicional</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/blog/inaam-elixir-vs-soda-tradicional" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/blog/inaam-elixir-vs-soda-tradicional" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/blog/inaam-elixir-vs-soda-tradicional" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/en/blog/what-are-botanical-sodas</loc>
+    <loc>https://inaambotanicals.com/blog/5-beneficios-inulina-agave</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/blog/5-beneficios-inulina-agave" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/blog/5-beneficios-inulina-agave" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/blog/5-beneficios-inulina-agave" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/blog/inaam-elixir-vs-traditional-soda</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/blog/inaam-elixir-vs-traditional-soda" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/blog/inaam-elixir-vs-traditional-soda" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/blog/inaam-elixir-vs-traditional-soda" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/blog/que-son-sodas-botanicas</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/blog/que-son-sodas-botanicas" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/blog/que-son-sodas-botanicas" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/blog/que-son-sodas-botanicas" />
+  </url>
+  <url>
+    <loc>https://inaambotanicals.com/blog/what-are-botanical-sodas</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/blog/what-are-botanical-sodas" />
+      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/blog/what-are-botanical-sodas" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/blog/what-are-botanical-sodas" />
   </url>
 </urlset>

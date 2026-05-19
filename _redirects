@@ -1,3 +1,18 @@
 # Cloudflare Pages redirects
+# Rutas antiguas en español → nuevas en inglés
+/productos /products 301
+/es/productos /es/products 301
+/producto/* /product/:splat 301
+/es/producto/* /es/product/:splat 301
+/contacto /contact 301
+/es/contacto /es/contact 301
+/equipo /team 301
+/es/equipo /es/team 301
+/historia /story 301
+/es/historia /es/story 301
+/datos-botanicos /botanical-facts 301
+/es/datos-botanicos /es/botanical-facts 301
+/donde-comprar /where-to-buy 301
+/es/donde-comprar /es/where-to-buy 301
 # Fallback for SPA routing
 /* /index.html 200
