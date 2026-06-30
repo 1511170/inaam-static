@@ -12,8 +12,6 @@
 /es/equipo /es/team 301
 /historia /story 301
 /es/historia /es/story 301
-/datos-botanicos /botanical-facts 301
-/es/datos-botanicos /es/botanical-facts 301
 /donde-comprar /where-to-buy 301
 /es/donde-comprar /es/where-to-buy 301
 
@@ -34,10 +32,10 @@
 /blog/* /en/blog/:splat 200
 /elixir /en/elixir 200
 /elixir/ /en/elixir/ 200
-/botanical-facts /en/botanical-facts 200
-/botanical-facts/ /en/botanical-facts/ 200
 /where-to-buy /en/where-to-buy 200
 /where-to-buy/ /en/where-to-buy/ 200
+/privacy /en/privacy 200
+/privacy/ /en/privacy/ 200
 
 # ── 3. Fallback SPA routing ──
 /* /index.html 200
