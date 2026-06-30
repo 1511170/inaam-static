@@ -29,15 +29,6 @@
       <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/contact/" />
   </url>
   <url>
-    <loc>https://inaambotanicals.com/es/story/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/story/" />
-      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/story/" />
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/story/" />
-  </url>
-  <url>
     <loc>https://inaambotanicals.com/es/team/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -198,15 +189,6 @@
     <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/contact/" />
       <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/contact/" />
       <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/contact/" />
-  </url>
-  <url>
-    <loc>https://inaambotanicals.com/story/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://inaambotanicals.com/story/" />
-      <xhtml:link rel="alternate" hreflang="es-CO" href="https://inaambotanicals.com/es/story/" />
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://inaambotanicals.com/story/" />
   </url>
   <url>
     <loc>https://inaambotanicals.com/team/</loc>

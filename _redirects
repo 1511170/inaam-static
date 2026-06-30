@@ -10,8 +10,8 @@
 /es/contacto /es/contact 301
 /equipo /team 301
 /es/equipo /es/team 301
-/historia /story 301
-/es/historia /es/story 301
+/historia / 301
+/es/historia /es/ 301
 /donde-comprar /where-to-buy 301
 /es/donde-comprar /es/where-to-buy 301
 
@@ -23,8 +23,6 @@
 /products/ /en/products/ 200
 /contact /en/contact 200
 /contact/ /en/contact/ 200
-/story /en/story 200
-/story/ /en/story/ 200
 /team /en/team 200
 /team/ /en/team/ 200
 /blog /en/blog 200
